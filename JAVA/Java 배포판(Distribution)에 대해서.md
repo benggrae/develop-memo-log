@@ -6,9 +6,9 @@
 * 신규 버전 배포주기 6개월 
 * 무료이다 
 * 여러 벤더들이 참여하여 개발 진행 
-* 커뮤니티 기반 빌드인 AdoptOpenJDK가 가장 대표 적이다 
+* 커뮤니티 기반 빌드인 AdoptOpenJDK가 가장 대표적 이다. 
 
-## AdoptOpenJDK(https://adoptium.net/)
+## AdoptOpenJDK(https://adoptopenjdk.net/)
 
 2017년에 자바 유저 그룹 멤버, 개발자, 벤더(아마존, 마이크로소프트, 피보탈, 레드햇 등)로 구성된 그룹이 AdoptOpenJDK라는 커뮤니티를 시작하여 가장 유명함 
 
@@ -27,17 +27,15 @@ VM의 종류이다.
 	적은 메모리를 사용하여 구현을 진행 중
 * GraalVM
 	*GraalVM은 Java 코드를 작성하고 실행할 수 있는 도구이다. Oracle에서 만든 JVM(Java Virtual Machine) 및 JDK(Java Development Kit)이고 애플리케이션의 성능과 효율성을 개선하는 목적으로 나온 고성능 런타임이다.
-	AOT[AOT 컴파일러] Just-In-Time 컴파일러 사용 
+	AOT[[AOT 컴파일러]] Just-In-Time 컴파일러 사용 
 	
-
-Just-In-Time 컴파일러? [[JIT 컴파일러 란?]]
 	
-
+  Just-In-Time 컴파일러? [[JIT 컴파일러 란?]]
+	
 
 
 *TCK가 무엇인가?
 TCK란, Technology Compatibility Kit의 약자로서 VM들이 JVM 표준 구현을 준수하였는지 확인하는 절차입니다. (AdoptOpenJDK 인증 받지 못했음)
-
 
 
 # Oracle JDK
